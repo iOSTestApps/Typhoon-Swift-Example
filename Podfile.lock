@@ -10,9 +10,9 @@ PODS:
   - OCMockito (1.4.0):
     - OCHamcrest (~> 4.0)
   - PaperFold (1.2)
-  - Typhoon (HEAD based on 3.1.5):
-    - Typhoon/no-arc (= HEAD based on 3.1.5)
-  - Typhoon/no-arc (HEAD based on 3.1.5)
+  - Typhoon (HEAD based on 3.3.3):
+    - Typhoon/no-arc (= HEAD based on 3.3.3)
+  - Typhoon/no-arc (HEAD based on 3.3.3)
 
 DEPENDENCIES:
   - CKUITools
@@ -46,6 +46,6 @@ SPEC CHECKSUMS:
   OCLogTemplate: 3a67ba6e6b40bc7675f6017cb71674e51cd68fa2
   OCMockito: 4981140c9a9ec06c31af40f636e3c0f25f27e6b2
   PaperFold: 1cf0beee99261dfc2a85821e3e5f1b6d4a3c365d
-  Typhoon: fa33f14d5b242232293527888510cc4e8a40a201
+  Typhoon: df3d23f59dccc8eda3e6535e58afd160ae60567e
 
-COCOAPODS: 0.36.0
+COCOAPODS: 0.38.2
